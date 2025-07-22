@@ -9,3 +9,7 @@ Dataset used is MovieLens 100k consisting of user_id movie_id movie title and ot
 
 ## Command
 streamlit run app.py
+
+##Live Demo
+Click here for the movie recommendation app
+https://movie-sivapriyaa.streamlit.app/
